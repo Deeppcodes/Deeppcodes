@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deeppcodes
-- 🌱 I’m currently learning how github works
+- 🌱 I’m currently tryna learn smth
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i enjoy coding and crying
 
