@@ -1,8 +1,7 @@
-Welcome to my corner of GitHub! 
+# Welcome to my corner of GitHub! 
 
-About Me:
-I'm a University of Waterloo CS undergrad, trying to solve the mysteries of code one bug at a time. 
-Passionate about coding, AI, and building things that make the world a bit more interesting. 
+I'm a Computer Science undergrad at the University of Waterloo, on a mission to untangle code (and occasionally create new knots).
+I’m passionate about AI, web development, and building projects that make life a little more clever and a lot more fun.
 
 
 ## 🌐 Socials:
@@ -19,7 +18,7 @@ Passionate about coding, AI, and building things that make the world a bit more 
 [![](https://visitcount.itsvg.in/api?id=Deeppcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-Projects:
+# Projects:
 Here’s a peek at the cool stuff I’m working on:
 
 <!---
