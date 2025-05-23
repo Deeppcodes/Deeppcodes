@@ -1,4 +1,4 @@
-# Welcome to my corner of GitHub! 
+# Deepika Anbalagan
 
 I'm a Computer Science undergrad at the University of Waterloo, on a mission to untangle code (and occasionally create new knots).
 I’m passionate about AI, web development, and building projects that make life a little more clever and a lot more fun.
