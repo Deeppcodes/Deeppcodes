@@ -49,9 +49,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Deeppcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Footer SVG](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
-
 <!---
 Deeppcodes/Deeppcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
