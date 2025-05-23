@@ -1,7 +1,4 @@
-# Deepika Anbalagan
-
-I'm a Computer Science undergrad at the University of Waterloo, on a mission to untangle code (and occasionally create new knots).
-I’m passionate about AI, web development, and building projects that make life a little more clever and a lot more fun.
+# About me!!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=800&size=20&pause=1000&color=F793FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deepika+Anbalagan!;CS+%40+University+of+Waterloo!;Software+Developer+—+Building+%26+Breaking+Things" alt="Typing SVG" />
