@@ -3,7 +3,9 @@
 I'm a Computer Science undergrad at the University of Waterloo, on a mission to untangle code (and occasionally create new knots).
 I’m passionate about AI, web development, and building projects that make life a little more clever and a lot more fun.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F793FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Deepika+Anbalagan!;CS+Undergrad+%7C+Waterloo+Warrior;AI+Lover+%7C+Web+Wizard+%7C+Code+Crafter)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=800&size=24&pause=1000&color=F793FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deepika+Anbalagan!;CS+%40+University+of+Waterloo;Software+Developer+—+Building+%26+Breaking+Things" alt="Typing SVG" />
+</p>
 
 
 # 💻 Tech Stack:
