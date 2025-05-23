@@ -5,6 +5,7 @@
 </p>
 
 
+
 # 💻 Tech Stack:
 
 ### 🧠 Languages
@@ -48,9 +49,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Deeppcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Footer SVG](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
-# Projects:
-Here’s a peek at the cool stuff I’m working on:
 
 <!---
 Deeppcodes/Deeppcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
