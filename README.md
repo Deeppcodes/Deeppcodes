@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/JavaScript-FFB6C1.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-FFC0CB.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-FF69B4.svg?style=for-the-badge&logo=Racket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Racket-FF69B4.svg?style=for-the-badge&logo=Racket&logoColor=white"/>
 </p>
 
 ---
