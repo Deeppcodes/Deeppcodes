@@ -11,12 +11,13 @@
 
 ### 🧠 Languages
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=4B8BBE"/>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=4B8BBE"/>
   <img src="https://img.shields.io/badge/JavaScript-FFB6C1.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-FFC0CB.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-FF69B4.svg?style=for-the-badge&logo=Racket&logoColor=white"/>
 </p>
 
 ---
