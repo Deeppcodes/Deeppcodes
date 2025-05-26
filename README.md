@@ -59,7 +59,9 @@
 
 ---
 
+curl https://api.github.com/users/Deeppcodes/repos?per_page=100 | jq '[.[] | .stargazers_count] | add'
 
+---
 <!-- Baby Pink Header Divider -->
 <!-- p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&fontAlign=50&fontSize=40&fontColor=ffffff" />
