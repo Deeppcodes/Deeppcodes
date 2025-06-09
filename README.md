@@ -59,6 +59,8 @@
 </p>
 
 ---
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Deeppcodes.Deeppcodes)
+
 <!-- Baby Pink Header Divider -->
 <!-- p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&fontAlign=50&fontSize=40&fontColor=ffffff" />
