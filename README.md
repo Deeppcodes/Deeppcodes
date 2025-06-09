@@ -59,7 +59,10 @@
 </p>
 
 ---
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Deeppcodes.Deeppcodes)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Deeppcodes.Deeppcodes" alt="Profile Views" />
+</p>
+
 
 <!-- Baby Pink Header Divider -->
 <!-- p align="center">
