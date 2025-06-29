@@ -1,4 +1,4 @@
-## about me 
+## Who I Am
 
 | About Me | Tech Stack |
 | --- | --- |
