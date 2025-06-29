@@ -1,88 +1,25 @@
-# 👩‍💻 About me
+## about me 
 
-<!-- Typing SVG Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=F7A8B8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deepika+Anbalagan!;CS+%40+University+of+Waterloo!;Software+Developer!" alt="Typing SVG" />
-</p>
+| About Me | Tech Stack |
+| --- | --- |
+| **CS @ UWaterloo**<br><br>**experience:**<br>current front-end dev @ IXICO<br>prev firmware developer @ Electrium Mobility (UW)<br>marketing executive @ UW CS Club<br>tutor @ UofT + Khan Academy<br><br>**notable hackathons:**<br>winner @ GenAI Genesis 2025 – [LabelLens](https://github.com/Deeppcodes/LabelLens)<br>winner @ CxC 2025 – [Investment Analysis System](https://github.com/Deeppcodes/Tech-Investment-Analysis)<br>one of 50 selected participants @ HackAI Toronto 2025 – [Reverb](https://github.com/Deeppcodes/Reverb)<br>winner @ WiE hackathon 2024 – [Bye-bye Bias](https://github.com/Deeppcodes/Email-Bias-Detector) | **languages:**<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"/><br><br>**tools & frameworks:**<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30" alt="tailwindcss"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="30" alt="vite"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud"/><br><br>**data:**<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib"/> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" height="30" alt="scikit-learn"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="30" alt="plotly"/> |
 
----
+<br>
 
-# 💻 Tech Stack
+<div align="center">
+  
+  ### github stats
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Deeppcodes&show_icons=true&theme=tokyonight&hide_border=false" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeppcodes&theme=tokyonight&layout=compact&hide_border=false" />
+  </p>
+  
+</div>
 
-### 🧠 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=4B8BBE"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFB6C1.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-FFC0CB.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Racket-FF69B4.svg?style=for-the-badge&logo=Racket&logoColor=white"/>
-</p>
-
----
-
-### ⚙️ Tools & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-FF69B4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-FFD1DC?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-FFB6C1?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-FFC0CB?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FFD1DC?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-FF69B4?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-FFB6C1?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
-
----
-
-### 📊 Data & Design
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-FFC0CB?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-FF69B4?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-FFB6C1?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-FFD1DC?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-FFC0CB?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-FFB6C1?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe-FFD1DC?style=for-the-badge&logo=adobe&logoColor=white"/>
-</p>
-
----
-
-# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeppcodes&theme=tokyonight&layout=compact&hide_border=false" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Deeppcodes.Deeppcodes" alt="profile views" />
 </p>
-
----
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Deeppcodes.Deeppcodes" alt="Profile Views" />
-</p>
-
-
-<!-- Baby Pink Header Divider -->
-<!-- p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&fontAlign=50&fontSize=40&fontColor=ffffff" />
-</p>
-
-
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Deeppcodes&icon=0&color=ffb6c1" />
-</p>
-
-<!-- Footer -->
-<!--p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer"/>
-</p>
-
-<!---
-Deeppcodes/Deeppcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
