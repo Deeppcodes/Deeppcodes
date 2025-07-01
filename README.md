@@ -1,4 +1,8 @@
-## Who I Am
+<div align="center">
+ 
+  ## Who I Am
+
+</div>
 
 | About Me | Tech Stack |
 | --- | --- |
